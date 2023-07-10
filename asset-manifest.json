@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vikki2Rikki/static/css/main.7acaea2f.css",
+    "main.js": "/Vikki2Rikki/static/js/main.07d3183d.js",
+    "index.html": "/Vikki2Rikki/index.html",
+    "main.7acaea2f.css.map": "/Vikki2Rikki/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Vikki2Rikki/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
