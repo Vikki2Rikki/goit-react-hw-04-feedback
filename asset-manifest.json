@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Vikki2Rikki/static/css/main.7acaea2f.css",
-    "main.js": "/Vikki2Rikki/static/js/main.07d3183d.js",
+    "main.css": "/Vikki2Rikki/static/css/main.28343a28.css",
+    "main.js": "/Vikki2Rikki/static/js/main.70b288f9.js",
     "index.html": "/Vikki2Rikki/index.html",
-    "main.7acaea2f.css.map": "/Vikki2Rikki/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Vikki2Rikki/static/js/main.07d3183d.js.map"
+    "main.28343a28.css.map": "/Vikki2Rikki/static/css/main.28343a28.css.map",
+    "main.70b288f9.js.map": "/Vikki2Rikki/static/js/main.70b288f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.28343a28.css",
+    "static/js/main.70b288f9.js"
   ]
 }
